@@ -58,7 +58,7 @@ export default function Page() {
 | color    | string           | ❌        | Button color           |
 | text     | string           | ❌        | Button text            |
 | emoji    | string           | ❌        | Emoji icon             |
-| position | "left" | "right" | ❌        | Widget position        |
+| position | "left", "right" | ❌        | Widget position        |
 
 ---
 
